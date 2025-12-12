@@ -5,7 +5,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* prevence horizontálního scrollu */
+    overflow-x: hidden; /* prevence horihzontálního scrollu */
 }
 
 body {
